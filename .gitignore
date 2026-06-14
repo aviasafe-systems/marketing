@@ -1,0 +1,21 @@
+# Dependencies
+node_modules/
+.astro/
+dist/
+
+# IDEs and editors
+.idea/
+.vscode/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# Local env files
+.env
+.env.production
+
+# OS files
+.DS_Store
+Thumbs.db
